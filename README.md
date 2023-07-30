@@ -22,6 +22,6 @@ The results show that the general sentiment in the reviews is positive, however 
 
 **Project**
 
-The codes were written in R and can be found here:
+The codes were written in R and can be found here:[R codes](https://github.com/saidatsanni/Sentiment-Analysis-of-Airbnb-Reviews-During-Covid-19-/blob/4b5b1e091bedafe760482eb75a7f260fff6fe68a/Codes%20and%20MainFile/Airbnb_Sentiment_Analysis.R)
 
-The final project presentation and file can be found here:
+The final project presentation and file can be found here:[Final Project](
