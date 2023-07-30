@@ -13,15 +13,15 @@ The dataset used in this study was collected from insideairbnb.com. This dataset
 
 **Methods**
 
-After in-depth Exploratory Data Analysis, Natural language processing is applied to 96,630 Airbnb guest reviews in New York City. This analysis looks at what are guests saying about the kinds of room they rented and their hosts, sentiments in the reviews – positive or negative, guest emotions, and how it changes during the pandemic. 
+After in-depth Exploratory Data Analysis, Natural language processing is applied to 96,630 Airbnb guest reviews in New York City. This analysis looks at what are guests saying about the kinds of rooms they rented and their hosts, sentiments in the reviews – positive or negative, guest emotions, and how it changes during the pandemic. 
 The processes involved in the analysis are:
 
 **Main Findings**
 
-The results show that the general sentiment in the reviews is positive, however degree of negativity increased over the span of the year analyzed. While the more frequent emotions in the review were anticipation, trust, and joy, the most interesting trends were found in four emotions – Trust, anger, fear, and joy.
+The results show that the general sentiment in the reviews is positive, however, the degree of negativity increased over the span of the year analyzed. While the more frequent emotions in the review were anticipation, trust, and joy, the most interesting trends were found in four emotions – Trust, anger, fear, and joy.
 
-**Project**
+**Project and Codes**
 
-The codes were written in R and can be found here:[R codes](https://github.com/saidatsanni/Sentiment-Analysis-of-Airbnb-Reviews-During-Covid-19-/blob/4b5b1e091bedafe760482eb75a7f260fff6fe68a/Codes%20and%20MainFile/Airbnb_Sentiment_Analysis.R)
+The codes were written in R and can be found here: [R codes](https://github.com/saidatsanni/Sentiment-Analysis-of-Airbnb-Reviews-During-Covid-19-/blob/4b5b1e091bedafe760482eb75a7f260fff6fe68a/Codes%20and%20MainFile/Airbnb_Sentiment_Analysis.R)
 
-The final project presentation and file can be found here:[Final Project](
+The final project presentation and file can be found here: [Final Project](https://github.com/saidatsanni/Sentiment-Analysis-of-Airbnb-Reviews-During-Covid-19-/blob/8111e4e1da3c882cecbbed321cb903506b5349d5/Codes%20and%20MainFile/Sentiment%20Analysis%20of%20Airbnb%20Review_New%20York%20City.pdf)
