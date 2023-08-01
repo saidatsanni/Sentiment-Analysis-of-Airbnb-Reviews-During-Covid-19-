@@ -1,10 +1,10 @@
-# Sentiment Analysis of Airbnb Reviews During Covid-19
-Sentiment analysis of Airbnb guest reviews in New York City to understand guests’ views, emotions, and sentiments during the Covid 19 pandemic, 
+# Sentiment Analysis of Airbnb Reviews During the Covid-19 Pandemic
+
 With the increase in the use and relevance of the sharing economy, Airbnb remains a major player and popular marketplace for vacation and home rentals. While the unit bookings are conducted online, the guests (renter) use the unit offline and provides review and ratings for the host, unit, and overall experience. Consequently, these online reviews may impact the success of the host, hence its importance. The review has become even more important during the pandemic as this may give some insights into people’s perceptions and sentiments during uncertainty. 
 
 **Goal** 
 
-To understand guests’ views, expectations, needs, emotions, and sentiments during the covid 19 pandemic.
+Sentiment analysis of Airbnb guest reviews in New York City to understand guests’ views, expectations, needs, emotions, and sentiments during the Covid-19 pandemic. The trend in the guests' emotions during the different phases of the pandemic is also explored. Did their emotions change?
 
 **Data**
 
@@ -13,8 +13,8 @@ The dataset used in this study was collected from insideairbnb.com. This dataset
 
 **Methods**
 
-After in-depth Exploratory Data Analysis, Natural language processing is applied to 96,630 Airbnb guest reviews in New York City. This analysis looks at what are guests saying about the kinds of rooms they rented and their hosts, sentiments in the reviews – positive or negative, guest emotions, and how it changes during the pandemic. 
-The processes involved in the analysis are:
+After in-depth Exploratory Data Analysis, Natural language processing is applied to the guest reviews. This analysis looks at what are guests saying about the kinds of rooms they rented and their hosts, sentiments in the reviews – positive or negative, guest emotions, and how it changes during the pandemic. 
+
 
 **Main Findings**
 
